@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+body {
+  background-color: oldlace;
+}
+
+footer p {
+  text-align: right;
+}
